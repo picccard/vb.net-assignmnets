@@ -1,2 +1,2 @@
 # vb.net-assignmnets
-A collection with some of my vb.net-assignmnets and experiments.
+A collection with some of my vb.net-assignments and experiments.
